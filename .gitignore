@@ -1,0 +1,6 @@
+*.out
+/src/data/
+/src/checkpoints-42/
+/src/log-42/
+/src/__pycache__/
+/src/models/__pycache__/
